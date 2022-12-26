@@ -8,7 +8,7 @@ import { auth } from "../firebase/firebase-config";
 const AuthContext = createContext();
 
 function AuthProvider(props) {
-  const [userInfor, setUserInfor] = useState({});
+const [userInfor, setUserInfor] = useState({});
   const value = { userInfor, setUserInfor };
   useEffect(() => {
     onAuthStateChanged(auth, (user) => {
