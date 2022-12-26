@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/405.90d27a6c.chunk.js","mappings":"+KAIA,UAJA,WACE,OAAO","sources":["pages/frontend/contactPage/ContactPage.js"],"sourcesContent":["function ContactPage() {\r\n  return <div>Contact page</div>;\r\n}\r\n\r\nexport default ContactPage;\r\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_monkey_blogging_boilerplate=self.webpackChunkreact_monkey_blogging_boilerplate||[]).push([[26],{26:function(e,n,l){l.r(n);var r=l(184);n.default=function(){return(0,r.jsx)("div",{children:"Blog page"})}}}]);
+//# sourceMappingURL=26.e86c9836.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_monkey_blogging_boilerplate=self.webpackChunkreact_monkey_blogging_boilerplate||[]).push([[405],{3405:function(e,n,t){t.r(n);var a=t(184);n.default=function(){return(0,a.jsx)("div",{children:"Contact page"})}}}]);
+//# sourceMappingURL=405.90d27a6c.chunk.js.map
